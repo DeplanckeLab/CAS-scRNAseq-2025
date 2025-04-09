@@ -42,18 +42,17 @@ This course will take place on site at Lausanne, University of Lausanne, campus 
 Day 3 – 11 April 2025 – 10h15-20h30 – University of Lausanne, Amphipôle 318<br/>
 
 **Emerging technologies**<br/>
-${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
-- <span style="color:lightgray">**10:15 – 12:15**:  Large Language Models (Dr. Ana-Claudia Sima, SIB)</span>
-- **12:15 – 13:00**:  Lunch break
-- **13:00 – 14:00**:  Glycomics (Dr. Frédérique Lisacek, Unige & SIB)
-- **14:00 – 15:00**:  RNA-seq analyses (Agnieszka Kraft, ETHZ) REMOTELY
-- **15:00 – 15:15**:  Break
-- **15:15 – 17:15**:  Single-cell-seq analyses, including HANDS-ON on ASAP (Dr.Vincent Gardeux, EPFL)
-  - **15:15 – 16:15**:  Introduction to single-cell transcriptomics (Lecture)
-  - **16:15 – 17:15**:  Toy project analysis using ASAP (Hands-on)
-- **17:15 – 17:30**:  Break
-- **17:30 – 19:00**:  Multi-omics data integration (Dr. Florence Mehl)
-- **19:00 – 20:30**:  Apéro offered to participants
+- <sub>**10:15 – 12:15**:  Large Language Models (Dr. Ana-Claudia Sima, SIB)</sub><br/>
+- <sub>**12:15 – 13:00**:  Lunch break</sub><br/>
+- <sub>**13:00 – 14:00**:  Glycomics (Dr. Frédérique Lisacek, Unige & SIB)</sub><br/>
+- <sub>**14:00 – 15:00**:  RNA-seq analyses (Agnieszka Kraft, ETHZ) REMOTELY</sub><br/>
+- <sub>**15:00 – 15:15**:  Break</sub><br/>
+- **15:15 – 17:15**:  Single-cell-seq analyses, including HANDS-ON on ASAP (Dr.Vincent Gardeux, EPFL)<br/>
+  - **15:15 – 16:15**:  Introduction to single-cell transcriptomics (Lecture)<br/>
+  - **16:15 – 17:15**:  Toy project analysis using ASAP (Hands-on)<br/>
+- <sub>**17:15 – 17:30**:  Break</sub><br/>
+- <sub>**17:30 – 19:00**:  Multi-omics data integration (Dr. Florence Mehl)</sub><br/>
+- <sub>**19:00 – 20:30**:  Apéro offered to participants</sub><br/>
 
 <br/>
 
@@ -85,3 +84,5 @@ At the end of the course, the participants are expected to:
 **Additional information**
 
 For more information, please contact [vincent.gardeux@epfl.ch](mailto://vincent.gardeux@epfl.ch).
+
+
