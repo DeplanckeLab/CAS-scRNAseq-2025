@@ -66,7 +66,7 @@ At the end of the course, the participants are expected to:
 - carry out cell-type annotation and downstream analyses
 
 **Pre-requisites - material & software**
-- The participants are thus required to have their own computer with an Internet connection. ASAP is a fully online tool, so no other installation is needed.
+- The participants are required to have their own computer with an Internet connection. ASAP is a fully online tool, so no other installation is needed.
 
 <br/>
 
