@@ -39,19 +39,11 @@ This course will take place on site at Lausanne, University of Lausanne, campus 
 
 ***
 
-- **09:00 – 10:30**:  Introduction to single-cell analysis using ASAP (Part 1). Introduction to single-cell genomics, and more particularly single-cell transcriptomics.
-- **10:30 – 10:45**:  Coffee break
-- **10:45 – 12:30**:  Introduction to single-cell analysis using ASAP (Part 2). Live example of how we can use ASAP to perform single-cell analysis on an example dataset.
-- **12:30 – 13:30**:  Lunch break
-- **14:00 – 15:30**:  Practical exercises (Part 1). Hands-on session on a single-cell dataset where participants will perform all steps of the single-cell analysis pipeline themselves, and annotate cell types.
-- **15:30 – 15:45**:  Coffee break
-- **15:45 – 18:00**:  Practical exercises (Part 2). Hands-on session part 2 and wrap-up.
-
 Day 3 – 11 April 2025 – 10h15-20h30 – University of Lausanne, Amphipôle 318<br/>
 
 **Emerging technologies**<br/>
 
-- **10:15 – 12:15**:  Large Language Models (Dr. Ana-Claudia Sima, SIB)
+- <span style="color:lightgray">**10:15 – 12:15**:  Large Language Models (Dr. Ana-Claudia Sima, SIB)</span>
 - **12:15 – 13:00**:  Lunch break
 - **13:00 – 14:00**:  Glycomics (Dr. Frédérique Lisacek, Unige & SIB)
 - **14:00 – 15:00**:  RNA-seq analyses (Agnieszka Kraft, ETHZ) REMOTELY
