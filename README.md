@@ -42,7 +42,7 @@ This course will take place on site at Lausanne, University of Lausanne, campus 
 Day 3 – 11 April 2025 – 10h15-20h30 – University of Lausanne, Amphipôle 318<br/>
 
 **Emerging technologies**<br/>
-
+${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
 - <span style="color:lightgray">**10:15 – 12:15**:  Large Language Models (Dr. Ana-Claudia Sima, SIB)</span>
 - **12:15 – 13:00**:  Lunch break
 - **13:00 – 14:00**:  Glycomics (Dr. Frédérique Lisacek, Unige & SIB)
