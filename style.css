@@ -1,0 +1,39 @@
+/* Whole document: */
+body{
+  font-family: Arial;
+  font-size: 11pt;
+}
+/* Headers */
+h1{
+  font-size: 20pt;
+}
+h2{
+  font-size: 16pt;
+}
+
+.author{
+  font-style: italic;
+  font-family: Arial;
+  font-size: 12pt;
+}
+
+.date{
+  font-style: italic;
+  font-family: Arial;
+  font-size: 12pt;
+}
+
+h1.title{
+  font-style: bold;
+  font-family: Arial;
+  font-size: 24pt;
+}
+
+blockquote{
+  font-family: Arial;
+  font-size: 11pt;
+}
+
+.error{
+  color: red;
+}
